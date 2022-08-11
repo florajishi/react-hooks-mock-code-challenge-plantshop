@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Monstera",
+      "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_monstera_variant_medium_hyde_terracotta_352c69f5-9e8b-4a72-a200-8839c8b92fab.jpg?v=1655957905",
+      "price": "45",
+      "id": 8
+    },
+    {
+      "name": "Monstera",
+      "image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_monstera_variant_medium_hyde_terracotta_352c69f5-9e8b-4a72-a200-8839c8b92fab.jpg?v=1655957905",
+      "price": "45",
+      "id": 9
     }
   ]
 }
