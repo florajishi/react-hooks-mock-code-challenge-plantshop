@@ -1,6 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 
 function NewPlantForm() {
+  const [plantForm, setPlantFormData] = useState({})
+
+  function onSubmit(){
+    
+  }
   return (
     <div className="new-plant-form">
       <h2>New Plant</h2>
